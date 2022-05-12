@@ -40,7 +40,8 @@ plt.title('Random Clasification Data with 2 classes')
 ```
 
 ## Output:
-![Screenshot (63)](https://user-images.githubusercontent.com/75235334/162919192-45bbece2-db38-4298-8164-3eb9b9ce4012.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/75235334/168079182-94086fcc-b103-4724-ace6-d958f190490c.png)
 
 
 
